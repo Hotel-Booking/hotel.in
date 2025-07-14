@@ -26,6 +26,10 @@ public class HotelController {
     public String test2() {
         return "Welcome2";
     }
+    @GetMapping("/test3")
+    public String test3() {
+        return "Welcome3";
+    }
     @PostMapping("/addhotels")
     public ResponseEntity<BaseResponse<Hotel>> addHotel(@RequestBody Hotel hotel) throws B2bHotelException {
         return hotelService.addHotel(hotel);
