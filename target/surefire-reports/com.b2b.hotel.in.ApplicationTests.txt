@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.b2b.hotel.in.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.120 s -- in com.b2b.hotel.in.ApplicationTests

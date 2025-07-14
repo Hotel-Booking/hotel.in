@@ -1,0 +1,11 @@
+com\b2b\hotel\in\configuration\DataInitializer.class
+com\b2b\hotel\in\Application.class
+com\b2b\hotel\in\dto\Review.class
+com\b2b\hotel\in\dto\Hotel.class
+com\b2b\hotel\in\configuration\WebConfig.class
+com\b2b\hotel\in\controller\HotelController.class
+com\b2b\hotel\in\configuration\WebConfig$1.class
+com\b2b\hotel\in\service\HotelService.class
+com\b2b\hotel\in\controller\TestController.class
+com\b2b\hotel\in\repository\HotelRepository.class
+com\b2b\hotel\in\repository\ReviewRepository.class
